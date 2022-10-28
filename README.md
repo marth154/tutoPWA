@@ -1,4 +1,4 @@
 ## URL APPLICATION 
 
 ### PWA 
-https://boisterous-maamoul-952f7e.netlify.app/
+https://tuto-pwa.netlify.app/
